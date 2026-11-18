@@ -1,0 +1,10 @@
+{
+    "displayName": "Sverovia Mod",
+    "name": "sverovia-mod",
+    "author": "Aleksander Vujasinovyč Konstantinov",
+    "main": "sverovia.SveroviaMod",
+    "description": "Made in Sverovia with love and peace. ",
+    "version": "0.0.1",
+    "minGameVersion": 160.3,
+    "java": true
+}
